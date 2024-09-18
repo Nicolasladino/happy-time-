@@ -45,6 +45,7 @@ nav .nav-link.active {
 }
 /* --------- header --------- */
 header{
+	background-color: var(--primary-yellow);
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
